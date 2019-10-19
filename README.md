@@ -32,13 +32,20 @@ Windows can exec all exts in %PATHEXT% even with typing ext name, so you can try
 |ll|list dir as detail|
 |ls|list dir just with name|
 |mv|move file|
+|npp|alias for Notepad++|
 |pip|`pip` (A symble link, base MSYS2)|
+|procexp|[A task manager like tool (GUI)](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)|
+|procgov|[A process manager tool (GUI)](https://github.com/lowleveldesign/process-governor)|
 |ps|show a tasklist|
 |pwd|show where this path is|
-|py|alias as `python`|
+|py|alias as `python3`|
+|py2|alias as `python2`|
+|py3|alias as `python3`|
+|python|alias as `python3` (anyway, avoid python2)|
 |reboot|reboot now!|
 |rm|delete file|
 |sudo|[run command with Administrator power!](https://github.com/mattn/sudo) (also try [this](https://github.com/kasajian/pseudo))|
 |systemctl|alias as `net` (so that I can `sudo systemctl start mariadb`!!)|
 |utf8|change CMD code to UTF-8(65001)|
 |which|find what command is/can exec|
+
